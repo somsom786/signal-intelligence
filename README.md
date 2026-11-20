@@ -2,6 +2,8 @@
 
 **Crypto intelligence, connected.**
 
+[Visit the live showcase](https://somsom786.github.io/signal-intelligence/) | [Pages deployment](https://github.com/somsom786/signal-intelligence/actions/runs/44642992541)
+
 SIGNAL is a local-first research workstation for discovering ecosystem developments, examining their sources, monitoring opportunities, and maintaining evidence-backed research dossiers.
 
 ![SIGNAL Today workspace populated with clearly labeled fictional showcase data](site/assets/today.jpg)
@@ -13,6 +15,8 @@ SIGNAL is a local-first research workstation for discovering ecosystem developme
 - Ecosystem profiles, research preparation, and persistent dossiers.
 
 The gallery captures the 0.6.3 workstation with fictional examples. This repository contains the standalone website. Live FLOP inference remains disabled pending verified testnet availability and activation. SIGNAL is an independent project designed to integrate with [FLOP infrastructure](https://flop.finance/).
+
+[Published desktop screenshot](verification/live-desktop.jpg) | [Published mobile screenshot](verification/live-mobile.jpg)
 
 ## Preview and deploy
 
@@ -27,4 +31,4 @@ The Pages workflow builds the same allowlisted files, uploads its artifact, and 
 
 ## Licensing
 
-Publication permits viewing the showcase. No open-source license is granted for SIGNAL, site code, or branding. The screenshots depict the SIGNAL interface, which uses [Tabler](https://github.com/tabler/tabler) and [Tabler Icons](https://github.com/tabler/tabler-icons). The public repository does not distribute these packages or the local application.
+The showcase is published for viewing. Site and branding reuse rights are reserved pending a licensing decision. The screenshots depict the SIGNAL interface, which uses [Tabler](https://github.com/tabler/tabler) and [Tabler Icons](https://github.com/tabler/tabler-icons). The public repository does not distribute these packages or the local application.
